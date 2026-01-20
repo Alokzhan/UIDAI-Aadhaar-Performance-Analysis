@@ -104,17 +104,21 @@ Data Cleaning & Standardization Techniques
 UIDAI-Aadhaar-Performance-Analysis/
 │
 ├── Dashboard/
-│   └── UIDAI_Aadhaar_Performance.pbix   
+│   └── uidai final.pbix
 │
 ├── Screenshots/
 │   ├── page1.png
 │   ├── page2.png
 │   └── page3.png
 │
-├── Video/
-│   └── dashboard_explanation_link.txt
+├── dashboard video/
+│   └── mp4
+│
+├── Documentation/
+│   └──FINAL.pdf
 │
 └── README.md
+
 
 
 
