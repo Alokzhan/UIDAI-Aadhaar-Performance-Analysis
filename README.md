@@ -89,7 +89,7 @@ Data cleaning logic
 Insights derived
 Problem-to-solution mapping
 
-👉 Video Link: (Add your Google Drive / YouTube / LinkedIn video link here)
+👉 Video Link: https://youtu.be/0o_K48tv-Xo?si=Y3JcPSX0ID-SxOT-
 
 🛠️ Tools & Technologies Used
 
@@ -136,7 +136,7 @@ Enhanced governance transparency
 
 👤 Author
 
-Team -Alok Verma , Yash Sharma , Parth Vaish
+Team -Alok Verma , Yash Sharma , Parth Vaish , Akshat
 📊 Data Analytics | Power BI | Python
 🎓 UIDAI Hackathon 2026 Participant
 
